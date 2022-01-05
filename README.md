@@ -1,0 +1,2 @@
+# AksCluster
+.net core project
